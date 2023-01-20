@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(247, 156, 156);
+    font-family: 'Open Sans',sans-serif;
+}
+.form-center-pading-login{
+    color: blue;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.title-form{
+    padding: 10px;
+}
+.input-field{
+    padding: 5  px 12px;
+
+}
